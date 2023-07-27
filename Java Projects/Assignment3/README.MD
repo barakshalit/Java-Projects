@@ -1,7 +1,7 @@
 # Assignment 3 - getting to know and work with Java's Classes, recursions and OOP
 
 ## Overview:
-In this assignment i've built some functions that uses Java classes: Big Integer and Random, solved some problems with recursions and ??????
+In this assignment i've built some functions that uses Java classes: Big Integer and Random, solved some problems with recursions and OOP.
 
 #### Task1 - warmup:
 Working with BigInteger and Random Java class, and creating the following functions:
