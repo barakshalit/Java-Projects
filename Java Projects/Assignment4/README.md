@@ -1,4 +1,4 @@
-# Assignment 4 -OOP basics - Implementing classes to help represent large numbers in binary (2's completments), working with 
+# Assignment 4 -OOP basics - Implementing classes to help represent large numbers in binary (2's completments).
 
 ## Overview:
 In this assignment we've contunied to work with classes, implementing and overwriting inherited functions, implementing different builders and more.
