@@ -1,4 +1,4 @@
-# Assignment 4 - Java basics, handeling large Int values, finding if a number is prime or not and using probability (Miller- Robin algorithem) to do so with large numbers.
+# Assignment 4 -OOP basics - Implementing classes to help represent large numbers in binary (2's completments), working with 
 
 ## Overview:
 In this assignment we've contunied to work with classes, implementing and overwriting inherited functions, implementing different builders and more.
